@@ -1,1 +1,1 @@
-# easy-sub
+This is a simple python project I'm developing for a few reasons. A: I want to brush up on some automated testing code B: I want to learn and practice more python and C: I'm currently working as a sub and want to automate when jobs become available. All of the information here is public. I'd like to be able to setup a cron job with a python script to check for new jobs and then send a text message when they are available. 3 birds with one stone, now that's how to roll.
